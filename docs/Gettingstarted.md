@@ -5,13 +5,15 @@ Welcome to the Dragon Ball z
 
 # Universes
 - [Universe - 1](Universes/Universe-1.md)
+____________________________________________________________
+# Node
+- [Node Types](Universes/nodes/README.md)
+  - [Editor](Universes/nodes/editor.md)
+  - [Element](Universes/nodes/element.md)
+  - [Node](Universes/nodes/node.md)
+  - [Text](Universes/nodes/text.md)
 
-
-- [Installing Slate](walkthroughs/01-installing-slate.md)
-  - [Introduction](Introduction.md)
-    - [Adding Event Handlers](walkthroughs/02-adding-event-handlers.md)
-   
-
+_____________________________________________________________
 
 - [Installing Slate](walkthroughs/01-installing-slate.md)
   - [Introduction](Introduction.md)
