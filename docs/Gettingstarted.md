@@ -10,7 +10,7 @@ ____________________________________________________________
 # Node
 - [Node Types](Universes/nodes/README.md)
   - [Editor](Universes/nodes/editor.md)
-    - [Element](Universes/nodes/element.md)
+    -   [Element](Universes/nodes/element.md)
   - [Node](Universes/nodes/node.md)
   - [Text](Universes/nodes/text.md)
 
